@@ -1,6 +1,6 @@
 # GenProtein-Finder
 
-Welcome to GenProtein Finder!
+Welcome to GenProtein Finder! - https://doi.org/10.5281/zenodo.17179914
 
 A Python tool for analyzing protein distribution across multiple genomes, enabling bidirectional searches and comparative genomics analysis.
 
