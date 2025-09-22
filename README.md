@@ -55,6 +55,10 @@ chmod +x genprotein_finder.py
 ```python
 excel_file = "path/to/your/excel/file.xlsx"
 ```
+3. Run
+```
+python3 genprotein_finder.py
+```
 
 ## 📞 Contact
 
